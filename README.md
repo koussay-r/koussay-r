@@ -6,5 +6,6 @@
 <!---
 koussay-r/koussay-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif
+--->![4paradox-animation](https://user-images.githubusercontent.com/123671958/216474614-de10b956-bcc2-4c42-9b0f-50dfb9ce02c5.gif)
+
+
