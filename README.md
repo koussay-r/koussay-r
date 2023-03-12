@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me : koussayrs11@gmail.com
-<img src="https://profile-counter.glitch.me/Filza2/count.svg" />
+
     
 
 
